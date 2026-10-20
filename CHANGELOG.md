@@ -1,4 +1,4 @@
-## Unreleased
+## 1.27
 
 #### FEATURES
 - Add `violation_type` to `dependencytrack_policy_condition`, required by DependencyTrack for conditions with `subject = "EXPRESSION"`.
